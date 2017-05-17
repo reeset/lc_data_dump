@@ -28,7 +28,7 @@ SQLite Database: link coming
 
 # Data Processing
 Data was processed using the following method:
-* A MarcEdit plugin was created.  This plugin specifically read the (http://www.loc.gov/cds/products/marcDist.php) website, downloading all data marked as UTF8.  The plugin separates data into two buckets:
+* A MarcEdit plugin was created.  This plugin specifically reads the (http://www.loc.gov/cds/products/marcDist.php) website, downloading all data marked as UTF8.  The plugin separates data into two buckets:
 1. bibliographic data
 2. authority data
 * Using the MARCJoin tool in MarcEdit, data files in each bucket were merged together.  This process takes ~1/2 minute per set.
