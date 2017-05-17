@@ -16,7 +16,7 @@ This data set includes ~12 million bibliographic records in MARC21XML format. Th
 
 SQLite Database (~8.9 GB compressed; ~32 GB uncompressed): [Download all bibliographic records](https://osu.box.com/s/zmmojfl3k2iv4jbulna43d4irjrnn26z)
 
-This data set includes ~12 million bibliographic records broken into 10 database tables. This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  The data in this database has not been optimized.  Users will want to create indexes on specific database if they want to query against the data.  
+This data set includes ~12 million bibliographic records broken into 10 database tables. This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  The data in this database has not been optimized.  Users will want to create indexes on specific database columns if they want to query against the data. FYI -- this is the internal database format used by MarcEdit's local ILS option.  Users can attach this file to MarcEdit and then run queries directly against it.  But again, I'd first optimize the database. 
 
 # Authority Data:
 
