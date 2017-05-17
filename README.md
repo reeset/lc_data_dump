@@ -42,7 +42,9 @@ I'll plan on refreshing the data when it is updated.  Likewise, I'll likely use 
 
 # About the Data
 
-This data is being made available by the U.S. Library of Congress for research purposes.  Data can be collected directly from the U.S. Library of Congress's Distribution Services site at: (http://www.loc.gov/cds/products/marcDist.php).  Please note, all data is being made available from the Library of Congress as Open-Access.  What does that mean, well, no specific license has been made available with the recordsets.  However, as a U.S. Federal Institution, data released by the Library of Congress, unless otherwise noted, typically falls into the Public Domain. 
+This data is being made available by the U.S. Library of Congress for research purposes.  Data can be collected directly from the U.S. Library of Congress's Distribution Services site at: (http://www.loc.gov/cds/products/marcDist.php).  In fact, they have a lot more data than I've posted here -- they include data in MARC8 and MARCXML, and, for those that don't want to work with the large files, they do have each material type and set in 250,000 record parts.  I created these files mostly because I wanted a complete data dump.  
+
+Also, please note, all data is being made available from the Library of Congress as Open-Access.  What does that mean, well, no specific license has been made available with the recordsets.  However, as a U.S. Federal Institution, data released by the Library of Congress, unless otherwise noted, typically falls into the Public Domain. This data is being shared under the same intent.
 
 # Questions
 
