@@ -38,7 +38,7 @@ Data was processed using the following method:
 2. Using the MARC21=>MARCXML converter, the MARC data is created into MARCXML.  This process takes ~2 hours per file.
 * Data is being hosted in my personal Ohio State University Box.net account.  All data should be downloadable via the specified links.
 
-I'll plan on refreshing the data when it is updated.  Likewise, I'll likely use this page to provide links to other data outputs creates from these datasets. 
+I'll plan on refreshing the data when it is updated.  Likewise, I'll likely use this page to provide links to other data outputs created from these datasets. 
 
 # About the Data
 
