@@ -2,7 +2,7 @@
 
 This data is derived from the U.S. Library of Congress's open data dump.  You can read about the data dump here: [Library offers largest release of digital catalog records in history](https://loc.gov/item/prn-17-068/ ).  
 
-The data released by the Library of Congress have been made available in a number of formats.  For the purpose of these files, I've created a set of data files that make use of the UTF8 data files.  I've tried to note the process used for each set of data files.
+The data released by the Library of Congress has been made available in a number of formats.  For the purpose of these files, I've created a set of data files that make use of the UTF8 data files.  I've tried to note the process used for each set of data files.
 
 # Bibliographic data:
 
