@@ -8,23 +8,31 @@ The data released by the Library of Congress have been made available in a numbe
 
 MARC Records (~12 GB): [Download all bibliographic records](https://osu.box.com/s/5zhgjxq7wrceznsm87camhry4vjxlcf8)
 
-This data set includes ~12 million bibliographic records using the UTF8 character encoding.  This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  You can download the excluded file (one record), here: https://osu.box.com/s/6l1zknju517picragw0v35u9iuuzptrk.  
+This data set includes ~12 million bibliographic records using the UTF8 character encoding.  This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  This data set was downloaded and processed on 05/17/2017.  You can download the excluded file (one record), here: https://osu.box.com/s/6l1zknju517picragw0v35u9iuuzptrk.  
 
 MARCXML Data (~3.5 GB compressed; ~38 GB uncompressed): [Download all bibliographic records](https://osu.box.com/s/sj2xyccw2ncrxqwcsl3rtyhl1ey3jy9b)
 
-This data set includes ~12 million bibliographic records in MARC21XML format. This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.
+This data set includes ~12 million bibliographic records in MARC21XML format. This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  This data set was downloaded and processed on 05/17/2017.
 
 SQLite Database (~8.9 GB compressed; ~32 GB uncompressed): [Download all bibliographic records](https://osu.box.com/s/zmmojfl3k2iv4jbulna43d4irjrnn26z)
 
-This data set includes ~12 million bibliographic records broken into 10 database tables. This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  The data in this database has not been optimized.  Users will want to create indexes on specific database columns if they want to query against the data. FYI -- this is the internal database format used by MarcEdit's local ILS option.  Users can attach this file to MarcEdit and then run queries directly against it.  But again, I'd first optimize the database. 
+This data set includes ~12 million bibliographic records broken into 10 database tables. This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  The data in this database has not been optimized.  Users will want to create indexes on specific database columns if they want to query against the data. FYI -- this is the internal database format used by MarcEdit's local ILS option.  Users can attach this file to MarcEdit and then run queries directly against it.  But again, I'd first optimize the database.  This data set was downloaded and processed on 05/17/2017.
 
 # Authority Data:
 
-MARC Records: link coming
+MARC Records (~1.3 GB compressed; ~5.5 GB uncompressed): link coming
 
-MARCXML Records: link coming
+This data set includes ~10 million authority records (its actually a shade under 10 million) in MARC format using the UTF8 character encoding.  This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  This data set was downloaded and processed on 05/17/2017.
 
-SQLite Database: link coming
+MARCXML Records (~1.3 GB compressed; ~14.6 GB uncompressed): link coming
+
+This data set includes ~10 million authority records (its actually a shade under 10 million) in MARC21XML format using the UTF8 character encoding.  This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  This data set was downloaded and processed on 05/17/2017.
+
+
+SQLite Database (~3.5 GB compreesed; ~12.8 GB uncompressed): link coming
+
+This data set includes ~10 million authority records (its actually a shade under 10 million) broken into 10 database tables. This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  The data in this database has not been optimized.  Users will want to create indexes on specific database columns if they want to query against the data. FYI -- this is the internal database format used by MarcEdit's local ILS option.  Users can attach this file to MarcEdit and then run queries directly against it.  But again, I'd first optimize the database. This data set was downloaded and processed on 05/17/2017.
+
 
 # Data Processing
 Data was processed using the following method:
