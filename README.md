@@ -24,7 +24,7 @@ MARC Records (~1.3 GB compressed; ~5.5 GB uncompressed): [Download all authority
 
 This data set includes ~10 million authority records (its actually a shade under 10 million) in MARC format using the UTF8 character encoding.  This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  This data set was downloaded and processed on 05/17/2017.
 
-MARCXML Records (~1.3 GB compressed; ~14.6 GB uncompressed): link coming
+MARCXML Records (~1.3 GB compressed; ~14.6 GB uncompressed): [Download all authority records](https://osu.box.com/s/jkf04k1hwlfw3mhgncehldwpdhged6kj)
 
 This data set includes ~10 million authority records (its actually a shade under 10 million) in MARC21XML format using the UTF8 character encoding.  This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  This data set was downloaded and processed on 05/17/2017.
 
