@@ -20,7 +20,7 @@ This data set includes ~12 million bibliographic records broken into 10 database
 
 # Authority Data:
 
-MARC Records (~1.3 GB compressed; ~5.5 GB uncompressed): link coming
+MARC Records (~1.3 GB compressed; ~5.5 GB uncompressed): [Download all authority records](https://osu.box.com/s/yzrw5jzqjcksynggusyflam5j75hma95)
 
 This data set includes ~10 million authority records (its actually a shade under 10 million) in MARC format using the UTF8 character encoding.  This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  This data set was downloaded and processed on 05/17/2017.
 
