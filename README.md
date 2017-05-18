@@ -29,7 +29,7 @@ MARCXML Records (~1.3 GB compressed; ~14.6 GB uncompressed): [Download all autho
 This data set includes ~10 million authority records (its actually a shade under 10 million) in MARC21XML format using the UTF8 character encoding.  This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  This data set was downloaded and processed on 05/17/2017.
 
 
-SQLite Database (~3.5 GB compreesed; ~12.8 GB uncompressed): link coming
+SQLite Database (~3.5 GB compreesed; ~12.8 GB uncompressed): [Download all authority records](https://osu.box.com/s/qh76cxphux369obll4r0bhhpmkqml0pe)
 
 This data set includes ~10 million authority records (its actually a shade under 10 million) broken into 10 database tables. This includes *only* the authority data, specifically all data found in the classification, name, and subject authority files.  This file explicitly excludes bibliographic data.  The data in this database has not been optimized.  Users will want to create indexes on specific database columns if they want to query against the data. FYI -- this is the internal database format used by MarcEdit's local ILS option.  Users can attach this file to MarcEdit and then run queries directly against it.  But again, I'd first optimize the database. This data set was downloaded and processed on 05/17/2017.
 
