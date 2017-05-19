@@ -6,7 +6,7 @@ The data released by the Library of Congress has been made available in a number
 
 # Bibliographic data:
 
-MARC Records (~12 GB): [Download all bibliographic records](https://osu.box.com/s/5zhgjxq7wrceznsm87camhry4vjxlcf8)
+MARC Records (~3.5 GB): Compressed: [Download all bibliographic records (compressed file)](https://osu.box.com/s/ra8403wcr85j5lq6ekmpa4zdoqvyljuu); (~12 GB): Uncompressed: [Download all bibliographic records (uncompressed file)](https://osu.box.com/s/5zhgjxq7wrceznsm87camhry4vjxlcf8)
 
 This data set includes ~12 million bibliographic records using the UTF8 character encoding.  This includes *only* the bibliographic data, but includes records from all available material types.  This file explicitly excludes authority data, specifically the classification, name, and subject authority data.  Additionally, this data set excludes one MAP record that was found to be invalid in the original LC dataset downloaded on 5/17/2017.  This data set was downloaded and processed on 05/17/2017.  You can download the excluded file (one record), here: https://osu.box.com/s/6l1zknju517picragw0v35u9iuuzptrk.  
 
